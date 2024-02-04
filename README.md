@@ -1,7 +1,7 @@
 # 2024
 CodeAThon 2024 Feb
 
-# Hackathon Problem Statement: Music Mood Classifier and Lyrics Generator
+# CodeAThon Problem Statement: Music Mood Classifier and Lyrics Generator
 
 **Background:**
 Music is a universal language that conveys emotions and stories to its listeners. Understanding the sentiment behind a song's lyrics can provide insights into its mood and impact on the audience. With the vast library of songs available on platforms like Spotify, there's a significant opportunity to analyze and categorize music based on the emotions they express.
@@ -34,5 +34,5 @@ The goal of this hackathon is twofold:
 **Resources:**
 Participants are encouraged to use open-source libraries and tools for data processing, machine learning, and natural language processing, such as pandas, scikit-learn, TensorFlow, PyTorch, NLTK, and GPT models.
 
-This hackathon presents a unique opportunity to explore the intersection of music, emotions, and technology. 
+This CodeAThon presents a unique opportunity to explore the intersection of music, emotions, and technology. 
 Good luck, and let the music inspire your innovation!
