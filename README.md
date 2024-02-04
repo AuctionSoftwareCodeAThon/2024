@@ -34,4 +34,5 @@ The goal of this hackathon is twofold:
 **Resources:**
 Participants are encouraged to use open-source libraries and tools for data processing, machine learning, and natural language processing, such as pandas, scikit-learn, TensorFlow, PyTorch, NLTK, and GPT models.
 
-This hackathon presents a unique opportunity to explore the intersection of music, emotions, and technology. Through this challenge, participants will gain hands-on experience with sentiment analysis, natural language processing, and creative applications of machine learning. Good luck, and let the music inspire your innovation!
+This hackathon presents a unique opportunity to explore the intersection of music, emotions, and technology. 
+Good luck, and let the music inspire your innovation!
